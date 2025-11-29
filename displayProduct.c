@@ -1,6 +1,9 @@
 #include "shop.h"
 #include <string.h>
 #include <stdlib.h>
+extern Product products[MAX_PRODUCTS];
+extern CartItem cart[MAX_CART_ITEMS];
+extern int cartCount;
 
 void displayProducts()
 {
