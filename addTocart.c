@@ -8,7 +8,7 @@ void addToCart()
     while (1)
     {
 
-        // Show product list WITHOUT Return/Exit menu
+        // it shows product list
         displayProducts(0);
 
         printf("\nEnter Product ID to add: ");
