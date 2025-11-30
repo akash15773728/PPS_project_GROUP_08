@@ -19,6 +19,19 @@ using fundamental C programming concepts such as:
 - checkout
 
 # OUTPUT
+- Shop Menu
+
+
+![WhatsApp Image 2025-11-30 at 2 45 02 PM](https://github.com/user-attachments/assets/7813e597-49bf-4723-adb0-b32d8280a732)
+
+
+
+
+
+
+
+
+
 - Display Products
 
 
@@ -44,7 +57,7 @@ using fundamental C programming concepts such as:
 
 
 
--Checkout
+- Checkout
 
 
 
