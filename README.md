@@ -5,9 +5,17 @@ add items to their cart, view cart, and checkout.
 # PROJECT OBJECTIVE
 The objective of this project is to design and implement a menu-driven shopping cart system 
 using fundamental C programming concepts such as:
-- Functions
-- Arrays
+-  Functions
+-  Arrays
 -  Pointers
 -  Structures
 -  Loops
 -  Conditional statements
+
+# Features
+- view available products
+- add products to cart
+- view cart items
+- checkout
+
+  
