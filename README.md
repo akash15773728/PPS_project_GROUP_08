@@ -18,4 +18,45 @@ using fundamental C programming concepts such as:
 - view cart items
 - checkout
 
+# OUTPUT
+- Display Products
+
+
+
+
+
+
+
+
+- Add To Cart
+
+
+
+
+
+
+
+- View Cart
+
+
+
+
+
+
+
+-Checkout
+
+
+
+
+
+
+
+# QUICK START
+- Compile Command:
+  "gcc main.c addTocart.c checkout.c displayProduct.c load.c menu.c view_cart.c -o shopping"
+
+- Run Command:
+  "./shopping"
+
   
