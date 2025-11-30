@@ -35,6 +35,7 @@ using fundamental C programming concepts such as:
 - Display Products
 
 
+![WhatsApp Image 2025-11-30 at 2 45 44 PM](https://github.com/user-attachments/assets/5a526600-f4fd-44dd-8c1e-be7708fd21e8)
 
 
 
@@ -45,6 +46,7 @@ using fundamental C programming concepts such as:
 
 
 
+![WhatsApp Image 2025-11-30 at 2 46 30 PM](https://github.com/user-attachments/assets/e1f59e7b-03c3-499c-beba-85238bf0ab35)
 
 
 
@@ -53,6 +55,7 @@ using fundamental C programming concepts such as:
 
 
 
+![WhatsApp Image 2025-11-30 at 2 47 57 PM](https://github.com/user-attachments/assets/59d642b3-5aa6-4991-b3bd-89275618bd97)
 
 
 
@@ -60,6 +63,7 @@ using fundamental C programming concepts such as:
 - Checkout
 
 
+![WhatsApp Image 2025-11-30 at 2 48 42 PM](https://github.com/user-attachments/assets/a07e15b1-c011-4c94-9b95-4e356881b871)
 
 
 
