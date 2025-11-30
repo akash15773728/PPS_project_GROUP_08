@@ -10,8 +10,7 @@ void addToCart()
 
     while (1)
     {
-
-        // it shows product list
+        // Display products
         displayProducts(0);
 
         printf("\nEnter Product ID to add: ");
